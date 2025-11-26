@@ -1,0 +1,11 @@
+.root {
+	-fx-background-color:#BBBAC6;
+}
+
+#searchButt	 {
+	-fx-font-family:"Roboto Mono";
+}
+
+#searchBar {
+	-fx-font-family:"Roboto Mono";
+}
